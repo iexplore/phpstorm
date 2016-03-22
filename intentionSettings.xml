@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Comments/Replace With C-Style Comment" />
-    <ignoreAction name="JavaScript/Other/Replace Double-Quoted String with Single-Quoted String" />
-    <ignoreAction name="JavaScript/Replace string concatenation with template string" />
-  </component>
-</application>

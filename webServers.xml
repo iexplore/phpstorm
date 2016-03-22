@@ -1,18 +1,19 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="017351e1-7fa2-4724-aef8-f9ee5f3ae732" name="HUB" url="http://learn.dirk.e-wise.it">
-        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa" rootFolder="/var/aegir/platforms/dtest/d7dev/" accessType="SFTP" username="dirk" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-        </fileTransfer>
+      <webServer id="76cc278e-cbca-497c-9251-0011c382eebf" name="Localhost" url="http://localhost:63342">
+        <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="a4de3550-e7d8-49d8-857b-8ad654d3be71" name="localhost:8080" url="http://localhost:8080/index.html">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="19a474bd-7651-4c63-a1ca-88a624682d34" name="locahost:3000" url="http://localhost:3000">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="96162a82-c99a-4ade-adfc-a754502fe4bc" name="FTO" url="http://fo.dirk.e-wise.it">
+        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/dtest/d7dev/" accessType="SFTP" username="dirk" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
