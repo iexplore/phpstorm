@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File 'C:\dev\auteurs\app\components\auteurs\Auteurs-data.json'" />
+    <option name="defaultScopeName" value="File 'C:\dev\auteurs\app\components\auteurs\Auteurs-data.json'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="File 'C:\dev\auteurs\app\components\auteurs\Auteurs-data.json'" />
+  </component>
+</application>

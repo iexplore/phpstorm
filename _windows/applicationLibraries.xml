@@ -1,0 +1,54 @@
+<application>
+  <component name="libraryTable">
+    <library name="lodash-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_lodash_lodash.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="polymer-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.app-router.d.ts" />
+          <item url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.core-drawer-panel.d.ts" />
+          <item url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.d.ts" />
+          <item url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.paper-toast.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.app-router.d.ts" />
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.core-drawer-panel.d.ts" />
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.d.ts" />
+        <root url="file://$USER_HOME$/.WebIde80/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_polymer_polymer.paper-toast.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="polymer-ts-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_polymer-ts_polymer-ts.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_polymer-ts_polymer-ts.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="toastr-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_toastr_toastr.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_toastr_toastr.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="iife" value="(function ($ARGS$) {&#10;$END$&#10;})($ARGS$);" description="Immediately Invoked Function Expression (self execution function)" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
