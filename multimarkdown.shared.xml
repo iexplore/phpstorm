@@ -44,9 +44,7 @@
       <StylesheetProvider>
         <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.css" providerName="Default JavaFx Stylesheet" />
       </StylesheetProvider>
-      <ScriptProviders>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.hljs.html.script" providerName="HighlightJS Script" />
-      </ScriptProviders>
+      <ScriptProviders />
       <cssText />
     </CssSettings>
   </component>
