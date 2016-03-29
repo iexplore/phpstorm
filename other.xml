@@ -91,7 +91,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="C:/Program Files (x86)/nodejs/node.exe">
-      <version-cache last-modified="0" />
+      <version-cache version="5.5.0" last-modified="1453335104000" />
     </local-interpreter>
     <local-interpreter path="C:/Program Files/nodejs/node.exe">
       <version-cache version="5.8.0" last-modified="1457488998000" />
