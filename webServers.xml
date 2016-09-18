@@ -8,7 +8,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="96162a82-c99a-4ade-adfc-a754502fe4bc" name="Nascholing" url="http://fo.dirk.e-wise.it">
-        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/dtest/d7dev/" accessType="SFTP" username="dirk" keyPair="true">
+        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/dtest/d7dev/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -19,5 +19,8 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcI+JlvKzgAKT2iK2jWFOirYp1GIrCV2qon7kDs5KD1Eql3yGcGlCgcafmrlSNuZkNJqNelQTJMiFjcajeX8fIRr2vP1BE+rVPxgzWFegdJuO/nznALIzwVvnu633VG3MLTWUHRJWof79et0kHToeVirLaelZ+NKciIANBvJYMiVp</data>
   </component>
 </application>
