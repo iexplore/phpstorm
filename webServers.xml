@@ -1,14 +1,11 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="76cc278e-cbca-497c-9251-0011c382eebf" name="Localhost" url="http://localhost:63342">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="a4de3550-e7d8-49d8-857b-8ad654d3be71" name="localhost:8080" url="http://localhost:8080/index.html">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="96162a82-c99a-4ade-adfc-a754502fe4bc" name="Nascholing" url="http://fo.dirk.e-wise.it">
-        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/d7dev/" accessType="SFTP" keyPair="true">
+        <fileTransfer host="hub.e-wise.com" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/d7dev/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -21,6 +18,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAcEb21XezQ5ucvID2YiokaYvSORLZ1woWj+fYFSaik92v7bc1yGDbLbx6O2cHW8hQJ+y+p5XlmgfSO6DEnx0V/0ddtAWcMDC0ZKEnP+rGmd1bMdj5RMG8h+qze6LBRHuOIr1BL5R1/xrw/WjAdNO5j1ldzsbgvrM5GLbJa59vYZII</data>
+    <data>AAAAcPiegGL0xlV9MiCcbRbAld2s86w2PUH4W+qgZg/EevSo40knwXMHp4NdUpLHe0zbiDh0DyaIm4vyOTPCAEPnxcYQbulAGa7e8v4YEzqbmE/gvLzAcbDv6tVR87ibTGkANkJEMhxkh4jVFIcchPGvNIBcicfw8LzTt6f4CP3i/7FE</data>
   </component>
 </application>
