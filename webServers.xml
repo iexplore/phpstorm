@@ -1,8 +1,19 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="76cc278e-cbca-497c-9251-0011c382eebf" name="Localhost" url="http://localhost:63342">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
       <webServer id="a4de3550-e7d8-49d8-857b-8ad654d3be71" name="localhost:8080" url="http://localhost:8080/index.html">
         <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="96162a82-c99a-4ade-adfc-a754502fe4bc" name="Nascholing" url="http://fo.dirk.e-wise.it">
+        <fileTransfer host="hub.e-wise.nl" port="22" privateKey="C:\Users\dirk\Documents\prive\pki\id_rsa.dirk.ppk" rootFolder="/var/aegir/platforms/dtest/d7dev/" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
       <webServer id="004e389a-2c8c-4896-ad77-ea303ecf5a7f" name="Gulp Server 5000" url="http://localhost:5000">
         <fileTransfer port="0" accessType="LOCAL" />
@@ -10,6 +21,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAcLzWBnVcNjcc8y9PkuR0hlnzy5Ur0Z4OYTUpUTjnC48X5DeNmk+Bv0Vc9a3/vkNOu6iLHpWIwKmBwdh0GeicNwhlIM1is48pU0LT8+wO2Cawqs+aJ1DpI5J42X4WTWhTEu9I1knwZuEf8sak8UDz+GtXuMwln6+CtkNT49QF/l/+</data>
+    <data>AAAAcLCDKpPp0CcMr7aFEd3aAS5SdLfO1XcKTe7K63ViDdlnSmSR9H6ZNwZXaLCX+IpzcKVgjZ7X8LMUroLpBDC8gcXeSDwRY4CIyezYE/vxhieO4XHwez7FPInxlXija/dympNwiwNyAO8FDDoavepYja/HbRHLfAyJKqZw9MJXMxIq</data>
   </component>
 </application>
