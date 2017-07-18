@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="app" />
-    <option name="defaultScopeName" value="app" />
+    <option name="customScope" value="File '[cme-online] - ...\modules\e-learn\learn\learn_scorm\learn_scorm.inc'" />
+    <option name="defaultScopeName" value="File '[cme-online] - ...\modules\e-learn\learn\learn_scorm\learn_scorm.inc'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="app" />
+    <option name="SEARCH_SCOPE" value="File '[cme-online] - ...\modules\e-learn\learn\learn_scorm\learn_scorm.inc'" />
   </component>
 </application>
