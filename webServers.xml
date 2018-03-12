@@ -21,6 +21,9 @@
       <webServer id="89f0396f-88c6-4baa-b6f1-4fb2b7476155" name="http://drupal.docker.localhost:8000" url="http://drupal.docker.localhost:8000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="53186e39-7c85-44df-836e-dda4a0977d46" name="React app" url="http://localhost:3000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
